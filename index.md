@@ -6,3 +6,6 @@
 
 ### Week 1
 **Link:** [Explain Your Program](https://youtu.be/Z8-huzscx6I)
+
+### Week 3
+**Link:** [Explain your Program #2](https://youtu.be/zfxEiGCPDF0)
