@@ -7,5 +7,8 @@
 ### Week 1
 **Link:** [Explain Your Program](https://youtu.be/Z8-huzscx6I)
 
-### Week 3
+### Week 2
 **Link:** [Explain your Program #2](https://youtu.be/zfxEiGCPDF0)
+
+### Week 3
+**Link:** [Explain your Program #4](https://youtu.be/vYsoFB_mfGU)
