@@ -12,4 +12,5 @@
 
 ### Week 3
 **Link:** [Code Walkthrough: Nested Repeats](https://youtu.be/vYsoFB_mfGU)
+
 **Link:** [Code Walkthrough: Events](https://youtu.be/Uy6nJ-A-sAA)
