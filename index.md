@@ -11,4 +11,5 @@
 **Link:** [Explain your Program #2](https://youtu.be/zfxEiGCPDF0)
 
 ### Week 3
-**Link:** [Explain your Program #4](https://youtu.be/vYsoFB_mfGU)
+**Link:** [Code Walkthrough: Nested Repeats](https://youtu.be/vYsoFB_mfGU)
+**Link:** [Code Walkthrough: Events](https://youtu.be/Uy6nJ-A-sAA)
