@@ -14,3 +14,6 @@
 **Link:** [Code Walkthrough: Nested Repeats](https://youtu.be/vYsoFB_mfGU)
 
 **Link:** [Code Walkthrough: Events](https://youtu.be/Uy6nJ-A-sAA)
+
+### Week 4
+**Link:** [Code Walkthrough: Variables](https://youtu.be/sgZrk_0ah98)
