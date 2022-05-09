@@ -17,3 +17,16 @@
 
 ### Week 4
 **Link:** [Code Walkthrough: Variables](https://youtu.be/sgZrk_0ah98)
+
+### Week 5
+**Link:** [Code Walkthrough: Conditional Loops]()
+### Week 6
+**Link:** [Code Walkthrough: If Statement]()
+
+### Week 7
+
+### Week 8
+
+### Week 9
+
+### Week 10
