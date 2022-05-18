@@ -24,7 +24,7 @@
 **Link:** [Code Walkthrough: If Statement]()
 
 ### Week 7
-
+**Link:** [Code Walkthrough: Nested If/Else Statement]()
 ### Week 8
 
 ### Week 9
