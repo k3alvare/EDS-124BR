@@ -26,7 +26,7 @@
 ### Week 7
 **Link:** [Code Walkthrough: Nested If/Else Statement]()
 ### Week 8
-
+**Link:** [Code Walkthrough: Compound Conditionals](https://youtu.be/klCwu63KXos)
 ### Week 9
 
 ### Week 10
