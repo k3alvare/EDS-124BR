@@ -22,11 +22,10 @@
 **Link:** [Code Walkthrough: Conditional Loops]()
 ### Week 6
 **Link:** [Code Walkthrough: If Statement]()
-
 ### Week 7
 **Link:** [Code Walkthrough: Nested If/Else Statement]()
 ### Week 8
 **Link:** [Code Walkthrough: Compound Conditionals](https://youtu.be/klCwu63KXos)
 ### Week 9
-
+**Link:** [Code Walkthrough: Abstractions](https://youtu.be/Q5kOAZOxXc8)
 ### Week 10
